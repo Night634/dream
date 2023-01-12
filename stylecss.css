@@ -415,21 +415,21 @@ footer {
 
 .image {
     position: relative;
-    width: 400px;
+    width: 350px;
     height: 100%;
     margin-left: 10px;
 }
 
 .image-img {
     display: block;
-    width: 400px;
+    width: 350px;
 }
 
 .image-overlay {
     position: absolute;
     top: 0;
     left: 0;
-    width: 400px;
+    width: 350px;
     height: 100%;
     background: rgba(0, 0, 0, 0.6);
     color: #fff;
