@@ -178,7 +178,6 @@ section p.konten-isi {
 }
 
 .mobil1 {
-    display: flex;
     margin-bottom: 50px;
     background-color: #b3b3b3;
     padding: 10px;
@@ -193,11 +192,9 @@ section p.konten-isi {
 
 .sinopsis1 a:link {
     color: #000000;
-    text-decoration: none;
 }
 
 .mobil2 {
-    display: flex;
     margin-bottom: 50px;
     background-color: #b3b3b3;
     padding: 10px;
@@ -212,11 +209,9 @@ section p.konten-isi {
 
 .sinopsis2 a:link {
     color: #000000;
-    text-decoration: none;
 }
 
 .mobil3 {
-    display: flex;
     margin-bottom: 50px;
     background-color: #b3b3b3;
     padding: 10px;
@@ -230,12 +225,10 @@ section p.konten-isi {
 }
 
 .sinopsis3 a:link {
-    color: #000000;
     text-decoration: none;
 }
 
 .mobil4 {
-    display: flex;
     margin-bottom: 50px;
     background-color: #b3b3b3;
     padding: 10px;
@@ -250,11 +243,9 @@ section p.konten-isi {
 
 .sinopsis4 a:link {
     color: #000000;
-    text-decoration: none;
 }
 
 .mobil5 {
-    display: flex;
     margin-bottom: 50px;
     background-color: #b3b3b3;
     padding: 10px;
@@ -269,11 +260,9 @@ section p.konten-isi {
 
 .sinopsis5 a:link {
     color: #000000;
-    text-decoration: none;
 }
 
 .motor1 {
-    display: flex;
     margin-bottom: 50px;
     background-color: #b3b3b3;
     padding: 10px;
@@ -288,11 +277,9 @@ section p.konten-isi {
 
 .sinopsis6 a:link {
     color: #000000;
-    text-decoration: none;
 }
 
 .motor2 {
-    display: flex;
     margin-bottom: 50px;
     background-color: #b3b3b3;
     padding: 10px;
@@ -307,11 +294,9 @@ section p.konten-isi {
 
 .sinopsis7 a:link {
     color: #000000;
-    text-decoration: none;
 }
 
 .motor3 {
-    display: flex;
     margin-bottom: 50px;
     background-color: #b3b3b3;
     padding: 10px;
@@ -326,11 +311,9 @@ section p.konten-isi {
 
 .sinopsis8 a:link {
     color: #000000;
-    text-decoration: none;
 }
 
 .motor4 {
-    display: flex;
     margin-bottom: 50px;
     background-color: #b3b3b3;
     padding: 10px;
@@ -345,11 +328,9 @@ section p.konten-isi {
 
 .sinopsis9 a:link {
     color: #000000;
-    text-decoration: none;
 }
 
 .motor5 {
-    display: flex;
     margin-bottom: 50px;
     background-color: #b3b3b3;
     padding: 10px;
@@ -364,7 +345,6 @@ section p.konten-isi {
 
 .sinopsis10 a:link {
     color: #000000;
-    text-decoration: none;
 }
 
 footer {
@@ -435,21 +415,21 @@ footer {
 
 .image {
     position: relative;
-    width: 500px;
+    width: 400px;
     height: 100%;
     margin-left: 10px;
 }
 
 .image-img {
     display: block;
-    width: 500px;
+    width: 400px;
 }
 
 .image-overlay {
     position: absolute;
     top: 0;
     left: 0;
-    width: 500px;
+    width: 400px;
     height: 100%;
     background: rgba(0, 0, 0, 0.6);
     color: #fff;
